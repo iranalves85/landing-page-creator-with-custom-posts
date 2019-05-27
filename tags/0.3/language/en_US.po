@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Landing Page Creator With Custom Posts\n"
+"POT-Creation-Date: 2017-06-13 00:10-0300\n"
+"PO-Revision-Date: 2017-06-13 00:11-0300\n"
+"Last-Translator: \n"
+"Language-Team: Making Pie <makingpie.com.br>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _x\n"
+"X-Poedit-SearchPath-0: landingpage_lpccp_admin.php\n"
+"X-Poedit-SearchPath-1: landingpage-creator-with-custom-posts.php\n"
+
+#: landingpage-creator-with-custom-posts.php:155
+msgid "Landing Pages"
+msgstr "Landing pages"
+
+#: landingpage-creator-with-custom-posts.php:155
+#: landingpage-creator-with-custom-posts.php:533
+msgid "Landing Page"
+msgstr "Landing Page"
+
+#: landingpage-creator-with-custom-posts.php:158
+msgid "Seções"
+msgstr "Sections"
+
+#: landingpage-creator-with-custom-posts.php:158
+msgid "Seção"
+msgstr "Section"
+
+#: landingpage-creator-with-custom-posts.php:189
+msgid "Adicionar Novo"
+msgstr "Add New"
+
+#: landingpage-creator-with-custom-posts.php:199
+msgid "Editar"
+msgstr "Edit"
+
+#: landingpage-creator-with-custom-posts.php:200
+msgid "Ver"
+msgstr "View"
+
+#: landingpage-creator-with-custom-posts.php:201
+msgid "Ver Todos"
+msgstr "View All"
+
+#: landingpage-creator-with-custom-posts.php:202
+msgid "Procurar"
+msgstr "Find"
+
+#: landingpage-creator-with-custom-posts.php:203
+msgid "Pais:"
+msgstr "Parent:"
+
+#: landingpage-creator-with-custom-posts.php:204
+msgid "Não encontrado."
+msgstr "Not found."
+
+#: landingpage-creator-with-custom-posts.php:205
+msgid "Não encontrado na lixeira."
+msgstr "Not found in trash."
+
+#: landingpage-creator-with-custom-posts.php:398
+msgid "O 'ID' informado não é um número."
+msgstr "The 'ID' entered is not a number."
+
+#: landingpage-creator-with-custom-posts.php:500
+msgid "Já existe um grupo com esse nome no banco de dados."
+msgstr "A group with this name already exists in the database."
+
+#: landingpage-creator-with-custom-posts.php:537
+msgid "Mostrar header?"
+msgstr "Show header?"
+
+#: landingpage-creator-with-custom-posts.php:540
+msgid ""
+"Este campo permite mostrar/esconder o header padrão do template instalado."
+msgstr ""
+"This field allows to show / hide the default template header installed."
+
+#: landingpage-creator-with-custom-posts.php:543
+msgid "Sim"
+msgstr "Yes"
+
+#: landingpage-creator-with-custom-posts.php:544
+msgid "Não"
+msgstr "No"
+
+#: landingpage-creator-with-custom-posts.php:552
+msgid "Menu personalizado para página"
+msgstr "Custom menu for page."
+
+#: landingpage-creator-with-custom-posts.php:555
+msgid ""
+"Criar uma lista com links de forma que seja como um menu personalizado para "
+"página."
+msgstr "Create a list with links in a way that is like a custom menu for page."
+
+#: landingpage-creator-with-custom-posts.php:562
+msgid "Seções a exibir"
+msgstr "Sections to show"
+
+#: landingpage-creator-with-custom-posts.php:618
+msgid "Código Adicional"
+msgstr "Aditional Code"
+
+#: landingpage-creator-with-custom-posts.php:622
+msgid "Tag > head"
+msgstr "Tag > head"
+
+#: landingpage-creator-with-custom-posts.php:625
+msgid "Insira o código para ser inserido dentro da tag \"head\" do html."
+msgstr "Enter the code to be inserted inside the \"head\" tag of the html."
+
+#: landingpage-creator-with-custom-posts.php:634
+msgid "Tag > body [superior]"
+msgstr "Tag > body [top]"
+
+#: landingpage-creator-with-custom-posts.php:637
+msgid "Insira o código para ser inserido após a abertura da tag body."
+msgstr "Enter the code to be inserted after opening the body tag."
+
+#: landingpage-creator-with-custom-posts.php:646
+msgid "Tag > body [inferior]"
+msgstr "Tag > body [bottom]"
+
+#: landingpage-creator-with-custom-posts.php:649
+msgid "Insira o código para ser inserido antes do fechamento da tag body."
+msgstr "Enter the code to be inserted before the body tag is closed."
+
+#: landingpage-creator-with-custom-posts.php:682
+msgid "Classes"
+msgstr "Classes"
+
+#: landingpage-creator-with-custom-posts.php:686
+msgid "Adicione classes"
+msgstr "Add class"
+
+#: landingpage-creator-with-custom-posts.php:689
+msgid ""
+"Adicione suas próprias classes para maior personalização. Separe as classes "
+"com espaço (ex: classe1 classe2)."
+msgstr ""
+"Add your own classes for more customization. Separate classes with space "
+"(ex: class1 class2)."
+
+#: landingpage-creator-with-custom-posts.php:691
+msgid "Adicione sua classes para o elemento."
+msgstr "Add your classes to the element."
+
+#: landingpage-creator-with-custom-posts.php:718
+msgid "Background"
+msgstr "Background"
+
+#: landingpage-creator-with-custom-posts.php:722
+msgid "Cor"
+msgstr "Color"
+
+#: landingpage-creator-with-custom-posts.php:725
+msgid "Selecione uma cor para o background."
+msgstr "Select a color for the background."
+
+#: landingpage-creator-with-custom-posts.php:730
+msgid "Cor do Texto"
+msgstr "Text Color"
+
+#: landingpage-creator-with-custom-posts.php:733
+msgid "Selecione uma cor padrão para o texto."
+msgstr "Select a default color for the text."
+
+#: landingpage-creator-with-custom-posts.php:738
+msgid "Imagem para fundo"
+msgstr "Background Image"
+
+#: landingpage-creator-with-custom-posts.php:744
+msgid "Imagem"
+msgstr "Image"
+
+#: landingpage-creator-with-custom-posts.php:747
+msgid ""
+"Selecione uma Imagem ou um Video* como background. (* Formatos de videos "
+"suportados \".mp4\",\".ofv\" e \".webm\")"
+msgstr ""
+"Select an Image or Video * as background. (* Supported video formats \"."
+"mp4\", \"ofv\" and \".webm\")"
+
+#: landingpage-creator-with-custom-posts.php:753
+msgid "Tamanho"
+msgstr "Size"
+
+#: landingpage-creator-with-custom-posts.php:757
+msgid "Cobrir"
+msgstr "Cover"
+
+#: landingpage-creator-with-custom-posts.php:758
+msgid "Conteúdo"
+msgstr "Content"
+
+#: landingpage-creator-with-custom-posts.php:759
+#: landingpage-creator-with-custom-posts.php:761
+msgid "Auto"
+msgstr "Auto"
+
+#: landingpage-creator-with-custom-posts.php:767
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: landingpage-creator-with-custom-posts.php:771
+msgid "Esquerda"
+msgstr "Left"
+
+#: landingpage-creator-with-custom-posts.php:772
+#: landingpage-creator-with-custom-posts.php:775
+#: landingpage-creator-with-custom-posts.php:786
+#: landingpage-creator-with-custom-posts.php:789
+msgid "Centro"
+msgstr "Center"
+
+#: landingpage-creator-with-custom-posts.php:773
+msgid "Direita"
+msgstr "Right"
+
+#: landingpage-creator-with-custom-posts.php:781
+msgid "Vertical"
+msgstr "Vertical"
+
+#: landingpage-creator-with-custom-posts.php:785
+msgid "Topo"
+msgstr "Top"
+
+#: landingpage-creator-with-custom-posts.php:787
+msgid "Inferior"
+msgstr "Bottom"
+
+#: landingpage-creator-with-custom-posts.php:795
+msgid "Repetição"
+msgstr "Repetition"
+
+#: landingpage-creator-with-custom-posts.php:799
+msgid "Repetir"
+msgstr "Repeat"
+
+#: landingpage-creator-with-custom-posts.php:800
+msgid "Repetir Horizontalmente"
+msgstr "Repeat Horizontally"
+
+#: landingpage-creator-with-custom-posts.php:801
+msgid "Repetir Verticalmente"
+msgstr "Repeat Vertically"
+
+#: landingpage-creator-with-custom-posts.php:802
+msgid "Não Repetir"
+msgstr "Do not repeat"
+
+#: landingpage-creator-with-custom-posts.php:803
+#: landingpage-creator-with-custom-posts.php:805
+msgid "Padrão"
+msgstr "Default"
+
+#: landingpage-creator-with-custom-posts.php:834
+msgid "Colunas"
+msgstr "Columns"
+
+#: landingpage-creator-with-custom-posts.php:838
+msgid "Layout"
+msgstr "Layout"
+
+#: landingpage-creator-with-custom-posts.php:843
+msgid "Uma coluna"
+msgstr "One column"
+
+#: landingpage-creator-with-custom-posts.php:844
+msgid "Duas colunas"
+msgstr "Two column"
+
+#: landingpage-creator-with-custom-posts.php:845
+msgid "Três colunas"
+msgstr "Three column"
+
+#: landingpage-creator-with-custom-posts.php:846
+msgid "Quatro colunas"
+msgstr "Four column"
+
+#: landingpage-creator-with-custom-posts.php:946
+#: landingpage-creator-with-custom-posts.php:967
+msgid "Coluna"
+msgstr "Column"
+
+#: landingpage_lpccp_admin.php:29
+msgid "Landing Page Creator With Custom Posts Options"
+msgstr "Landing Page Creator With Custom Posts Options"
+
+#: landingpage_lpccp_admin.php:30
+msgid "Landing Page Creator With Custom Posts"
+msgstr "Landing Page Creator With Custom Posts"
+
+#: landingpage_lpccp_admin.php:43
+msgid "Você não tem permissão para acessar essa página."
+msgstr "You are not allowed to access this page."
+
+#: landingpage_lpccp_admin.php:53
+msgid "Landing Page With Custom Posts"
+msgstr "Landing Page With Custom Posts"
+
+#: landingpage_lpccp_admin.php:58
+msgid "Doar"
+msgstr "Donate"
+
+#: landingpage_lpccp_admin.php:62
+msgid "Avalie meu plugin"
+msgstr "Rate my plugin"
+
+#: landingpage_lpccp_admin.php:65
+msgid "Desenvolvido por"
+msgstr "Developed by"
+
+#: landingpage_lpccp_admin.php:65
+msgid "obrigado por usar meu plugin!"
+msgstr "thank you for using my plugin!"
+
+#: landingpage_lpccp_admin.php:65
+msgid ""
+"Se esse plugin o ajudou de alguma forma, me pague um café ou avalie o plugin "
+"no repositório de plugins Wordpress, agradeço imensamente."
+msgstr ""
+"If this plugin helped you in any way, pay me a coffee or evaluate the plugin "
+"in the repository of Wordpress plugins, thank you immensely."
+
+#: landingpage_lpccp_admin.php:65
+msgid "Wordpress é amor!"
+msgstr "Wordpress is love!"
+
+#: landingpage_lpccp_admin.php:69
+msgid "Procura um desenvolvedor para seu projeto?"
+msgstr "Looking for a developer for your project?"
+
+#: landingpage_lpccp_admin.php:77
+msgid "Configuração"
+msgstr "Settings"
+
+#: landingpage_lpccp_admin.php:78
+msgid "Habilitar \"Landing Page\" em páginas nativas."
+msgstr "Enable \"Landing Page\" on native pages."
+
+#: landingpage_lpccp_admin.php:79
+msgid "Em qual páginas habilitar?"
+msgstr "Which pages to enable?"
+
+#: landingpage_lpccp_admin.php:85 landingpage_lpccp_admin.php:94
+msgid "Selecionar"
+msgstr "Select"
+
+#: landingpage_lpccp_admin.php:86 landingpage_lpccp_admin.php:95
+msgid "Título"
+msgstr "Title"
+
+#: landingpage_lpccp_admin.php:103
+msgid "Salvar"
+msgstr "Save"
+
+#: landingpage_lpccp_admin.php:161
+msgid "Configurações salvas."
+msgstr "Saved settings."
+
+#~ msgid "Donate"
+#~ msgstr "Doar"
+
+#~ msgid ""
+#~ "Desenvolvido por Iran Alves (iranjosealves@gmail.com), obrigado por usar "
+#~ "meu plugin!"
+#~ msgstr ""
+#~ "Developed by Iran Alves (iranjosealves@gmail.com), thanks for using my "
+#~ "plugin!"
+
+#~ msgid "Adicionar classes"
+#~ msgstr "Add class"
+
+#~ msgid "Selecione a cor para o background."
+#~ msgstr "Choose color for background"
+
+#~ msgid "Selecione a cor padrão para o texto."
+#~ msgstr "Choose default color for text of element. "
+
+#~ msgid "Sections"
+#~ msgstr "Sections"

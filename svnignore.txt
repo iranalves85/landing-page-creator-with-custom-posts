@@ -1,0 +1,6 @@
+landingpage-creator-with-custom-posts.php
+svnignore.txt
+LICENSE
+README.md
+.vscode
+.gitignore

@@ -1,0 +1,10 @@
+/trunk/.git/*
+/trunk/advanced-custom-fields/
+/trunk/advanced-custom-fields/*
+/trunk/error_log
+/tags/
+/tags/*
+/branches/
+/branches/*
+/.svn/
+/.svn/*
